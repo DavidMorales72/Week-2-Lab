@@ -159,3 +159,11 @@ for(var i = 0; i < 100 && points < 290; i++){
     console.log("Turns: " + i + " Score: " + points)
 }
 */
+
+
+let FirstNames = ['Jonh','Mary','Sue','Jim']
+
+for (i = 0; i < FirstNames; i++)
+{
+    console.log(FirstNames);
+}
